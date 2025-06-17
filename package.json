@@ -1,0 +1,10 @@
+
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "react-native": "0.74.0"
+  }
+}
